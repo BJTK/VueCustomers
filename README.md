@@ -1,24 +1,23 @@
 # VueCustomers
 本项目是vuecli3后台(增删改查)功能的简单实现；
 
-使用到的技术：
+ ![555](C:\Users\Administrator.PC-20190326DKEY\Desktop\555.jpg)
 
-​         Vue（全家桶），(启动命令：npm run dev);
+![77](C:\Users\Administrator.PC-20190326DKEY\Desktop\77.jpg)
 
-​          UI库：element-Ui
+​            使用到的技术：
 
-​          JsonServer自行后台，(启动命令：npm run json:server)，位于vue目录中static目录下；
+​                           Vue（全家桶），(启动命令：npm run dev);
 
-​     
+​                            UI库：element-Ui
 
+​                           JsonServer自行后台，(启动命令：npm run json:server)，位于vue目录中static目录下
 
+​           适用范围：
 
-适用范围：
+​                          前端小白，学习参考，自我发散，见解；    
 
-​            前端小白，学习参考，自我发散，见解；
+​           友情邀约：
 
-​     
+​                          为了共同学习进步，有不足之处，尽情雅正！     
 
-  建议修正：
-
-​            为了共同学习进步，有不足之处，尽情雅正！     
